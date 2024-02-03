@@ -1,0 +1,16 @@
+[
+    {
+        "studentId": "25e0f446-1c99-483d-9de8-811fc4cbafed",
+        "mnemonic": "",
+        "addressRecipient": "cosmos1m5gjpnm6fjljvxfktjkvjumk79xdrckmrckypk",
+        "homeDenom": "token",
+        "result": { "found": false }
+    },
+    {
+        "studentId": "10349c8f-b2f1-4179-89ed-0b9fac127a98",
+        "mnemonic": "",
+        "addressRecipient": "cosmos1m5gjpnm6fjljvxfktjkvjumk79xdrckmrckypk",
+        "homeDenom": "testproof",
+        "result": { "found": false }
+    }
+]

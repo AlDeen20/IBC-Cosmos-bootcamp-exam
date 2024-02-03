@@ -1,0 +1,16 @@
+[
+    {
+        "studentId": "60e4f471-7a5a-4d8e-a320-f6c7533ff54b",
+        "mnemonic": "lobster shock script absurd assume near charge law unfair lift just also drill damp music accuse salad rather include relief drive special child coin",
+        "addressRecipient": "cosmos19vc35uv05mddlhqlkn8xpg54vsm04rkaka6hhk",
+        "homeDenom": "token19vc35uv05mddlhqlkn8xpg54vsm04rkaka6hhk",
+        "result": { "found": false }
+    },
+    {
+        "studentId": "515cad50-5d98-422e-af3b-ed6d1361b4ec",
+        "mnemonic": "earth column among tomorrow grab know animal paddle hurdle shed beach race sell veteran milk razor lemon flame world note slogan today similar reduce",
+        "addressRecipient": "cosmos10clma9wt7j2we6ej753kl8f0hykd73uypv5wvq",
+        "homeDenom": "token10clma9wt7j2we6ej753kl8f0hykd73uypv5wvq",
+        "result": { "found": false }
+    }
+]
